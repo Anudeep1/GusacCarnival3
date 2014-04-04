@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView 
+    
+      xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="In the first round the participants will be given questions in whose answers are 
+the code to disable the bomb. Each bomb has to be disabled before its timer of 2 
+minutes runs out. Every participant has 3 lives.
+Will be based on C. The second round is Code-Obfuscation where the selected 
+participants will be given a question and they have to develop the code and 
+obfuscate it. If a player's obfuscated code is decoded then he loses points. The 
+player with highest points wins."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sameer Culli-9866079652\nKamal Atluri-9966347760\nSudeep\nAravind\nYesheswi"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>
+
+
+</ScrollView>

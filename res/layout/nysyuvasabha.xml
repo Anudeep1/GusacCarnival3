@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The Yuva Sabha is a replication of the original Lok Sabha , in which an agenda is put forward ,after which delegates representing each state discuss and make amendments to the presented bill . After all the amendments have been ratified by the members of the parliament , the bill is voted upon . This mock parliament is aimed at enhancing your ability to make amendments which benefits your state as well as the nation on the whole. The Yuva sabha aims to be an educational tool to promote understanding and working of the government.\n
+ Rules for mock parliament: Yuva Sabha\n
+1. Participants have register themselves prior the event i.e. on or before 3rd march 11.59pm.\n
+2. Participants will have to pass a screening test where they will be asked to answer questions in website.\n
+3. Allotment of the states will be based on the answers.\n
+4. States and agendas will be given to the participants two days prior the event i.e. on 4th march.\n
+5. Entire session will be divided into two phases :-\n
+a) First phase participants presenting states will have to present their bills.  Arguments will be held on the bills presents by each state.\n
+b) In second session each state have to post their votes in favor a bill.\n
+ Judging criteria:\n
+1. Final judgment will be based upon the most voted bill and the decision of the speaker will be final.\n
+2. People who will not be present for the second session will be disqualified."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+     
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mahathi Vatsal : 9177053637\n
+Avinash : 9700677327
+        "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>

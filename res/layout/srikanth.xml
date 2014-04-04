@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+      <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Srikanth Addala: Sreekanth Addala is an Indian film director associated with Telugu cinema. After working on many movies as an assistant director, Sreekanth directed his 
+first movie Kotha Bangar Lokam with Varun Sandesh and Shweta Basu Prasad. The movie was well received and was declared one of the biggest hits of the year 2008. His second 
+project Seethamma Vakitlo Sirimalle Chettu released in 2013. All of his movies were produced by his mentor and friend Dil Raju. He also penned lyrics for a song in his first movie."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>

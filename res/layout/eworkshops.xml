@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How To Start Up?"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="We would also like to conduct an Entrepreneurship and B-Plan Boot camp and National B-plan contest, for which we have partnered with  the Nurture Talent Academy. It is a mix of lecture, presentations, exercises, games, public speaking and group discussions. The aim is to motivate and train our participants to take up entrepreneurship as a career option. The aim of this boot camp is to give help students to start their own venture. The 16 hrs intensive boot camp will be having industry mentors, entrepreneurs and investors who will help and guide the teams and students. The price of the boot camp will be Rs 1200  per student. Free kits for the students and faculties."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Online Marketing"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="If you are thinking that this digital age is over glorifying the power that social networks have, you can’t be more in the dark. This age demands social presence because social media has become an ingredient instead of remaining an entree. Here is the workshop aimed at teaching you how to socialise and socialise RIGHT!"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+</LinearLayout>
+
+</ScrollView>

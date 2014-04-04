@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Programming today is a race between software engineers stirring to build bigger and better idiot proof program.\n
+ As said by C.A.R Hoare, There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. Controlling complexity is the essence of computer programming. Rack your brains, think of the optimised code, come prove the depth of your knowledge in computers and walk away with loads of prize\n
+ Level 1:\n
+Multiple choice questions:\n
+Questions based on general technical knowledge, programing and skills, photo/ symbol identification.\n
+Level 2:\n
+Debugging:\n
+Questions based on error detection and error correction will be given.\n
+Level 3:\n
+Coding:\n
+A problem statement will be given on spot, based on c and c+"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+  <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />   
+        
+  
+  <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Judging criterion:
+ 
+The best code will be selected based on the following elements\n
+• Compilation time\n
+• Running time\n
+• Time complexity\n
+• Code presentation
+ 
+Rules:\n
+-> Problem statement will be given on the day of event.\n
+-> Participants should have good knowledge on c, c++.\n
+-> Team of minimum 1 and maximum 2 participants is allowed.\n
+-> Participants are supposed to explain the algorithm for code they designed if required.\n
+-> Participants are strictly prohibited from looking up code on the Internet"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+  
+  
+  
+  <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />  
+        
+  
+  
+  <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ITB 309,310,303,304"
+        android:textAppearance="?android:attr/textAppearanceMedium" />  
+        
+  
+  <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />  
+        
+  
+  <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pradeep - 9491802860\n
+Ankita - 9493801523"
+        android:textAppearance="?android:attr/textAppearanceMedium" />  
+  
+     
+     
+    
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>

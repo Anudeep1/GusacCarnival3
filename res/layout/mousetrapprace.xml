@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DESIGN A VEHICLE WITH ONE OR TWO MOUSE TRAP AS SOURCE\n
+ROUND 1:\n
+ The vehicle has to cover the maximum possible distance in a time span of 10seconds. The path may be little rough. The distance that would be 
+taken into consideration will depends on the position of the vehicle at the end of tenth second measured from starting point.
+\nROUND 2:\n
+In this round mouse trap vehicle has to move forward and destroy the set off cup arranged in the path and return to the point behind the starting 
+line as quickly as possible. Reversing and starting mechanism has to work automatically. The vehicle must destroy the set of plastic cups (provided by 
+event organisers), placed in the path of 2mtr line and reverse its direction and should touch the starting point which is the minimum criteria in order to receive 
+the ideal distance score and the one which reverse to the maximum distance will 
+be the winner."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ravi chandra 9550989862,\nmanoj(8099954322),raviteja"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>

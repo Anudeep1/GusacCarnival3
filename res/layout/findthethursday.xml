@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     
+     
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Basically, it is an impromptu. It aims in socializing the participants with each 
+
+other. A total of 30 participants are invited at a time. They will be assigned with 
+
+the names of all the days in the week and numbers from 1 to 7. After a time lap 
+
+of 5 minutes, the one who remains with the Thursday will be the winner."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>

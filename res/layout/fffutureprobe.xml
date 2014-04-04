@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Every 3 years, Stanford University conducts a research survey amongst PhD aspirants to test their imaginative prowess and cognitive skills. These PhD students are pitted against each other for envisioning the future few years down the lane.\n
+ We are bringing this concept here a GITAM University, for the carnival. Do you see yourself as a “Thinker”? Do you often dream about the future?\n
+ Then, hop on to the “FUTURE PROBE”. The event tests how creative you can let your imagination fly."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prateek :  8143244492"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    
+    
+    
+</LinearLayout>
+
+
+</ScrollView>

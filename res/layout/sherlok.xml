@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+     
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" PROBLEM STATEMENT:
+   LEVEL 1: The team will be given a set of questionnaires which is assumed to depict a scene of unsolved mystery. The team is expected to act as an instant Sherlock holmes and expose the scene, extracting conclusions from the scene.
+   Level 2:  the team will be given a situation, depicted as a scene of national importance and crisis. You are Expected to act as a spy/ detective and act accordingly to that situation and save the nation."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+       
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+        
+         <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rules and regulations:
+ • Maximum of 3 members in the team are allowed; the team members can be from any major/Institute.
+ • Time limit for the two rounds will be announced later.
+ • The winner will be declared as according to the best answer’s given.
+ • The decision of the judge will be final.
+Note: The above may be subjected to changes which will be informed before the start of the event"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+         
+          <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+          
+           
+          <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ITB 428,429,430,431,438,437,436"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+          
+          
+          
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+            
+            
+               <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="deepanshu rao : 9810787710"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+          
+          
+          
+          
+          
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>

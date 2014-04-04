@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="There is a need for new generation of aircrafts that are cheaper to acquire and costs less to operate and are independent of costly airport infrastructure and instrumentation. Safe, nearly all weather access to any location in the country with an existing landing facility is a critical need for all round growth. With this goal in mind, we would recommend you people to become active participants in designing aircraft which is available at a minimal cost by reducing the weight of the craft or anything like that to reduce the operating cost of passenger flight and travel fare even so that it is available to all the citizens of the nation. With the various technologies available in the present days try to make least cost operating passenger aircraft.\n
+ PROBLEM STATEMENT:\n
+Make a presentation considering issues like\n
+1. Aircraft design Specifications\n
+2. Weight of the flight\n
+3. Size or number of people it can carry"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sai Satish  : 9989578270"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
+
+</ScrollView>

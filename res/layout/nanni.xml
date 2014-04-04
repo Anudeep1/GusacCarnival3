@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+      <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nani: He is a South Indian actor who stars in Telugu and Tamil films. After his education, he became an assistant director and worked with Srinu Vaitla and Bapu, before working as an RJ 
+for World Space Satellite in Hyderabad. An advertisement, featuring him, led to his first acting assignment in the form of Ashta Chamma."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>

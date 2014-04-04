@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+     
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The workshop aims in teaching students about the “Zen of writing”. If you have an ambition of becoming the next “Chetan Bhagat” then this workshop is for 
+you!!!\n
+The workshop will have professionals from Industries, explaining the participants all about writing and becoming mature writers. 
+Participants can also win a chance to work with A.P’s first student online magazine, G-M@G."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>

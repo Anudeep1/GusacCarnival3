@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Problem Statement:\n
+  Build a manually controlled bot that can accomplish the following tasks:\n
+  1) Clean the arena filled with sand.\n
+  2) Pick and deposit different kind of objects like mobile phone, empty water bottle, and keychain, remote\n
+Game:\n
+It will take place in two stage: first will be Elimination Round and those selected will play in the Main Event. The bot has to:\n
+Elimination round:\n
+-clean the arena filled with sand\n
+-the bot must move over different terrains  different obstacles and complete the task.\n
+Main event:\n
+-pick and deposit different kind of objects like mobile phone, empty water bottle, keychain, remote in specified area."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+     <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+     
+      <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gameplay rules:
+   Round 1:\n
+   -Total time is 5 mins. Clock will keep ticking.\n
+   -Team members are not allowed to enter into the arena.\n
+   -there will be 3 deposits in the arena, the bot has to clean the sand into the deposit spot.\n
+   -The judging criterion of this round is based on the time taken to clean a particular amount of sand and also the deposition of sand at a particular deposit spot.\n
+   -Depending upon the no of participants, the judging committee will decide how many teams will qualify for main event\n
+   Round 2:\n
+-Total time is 5 mins. You can take infinite number of re-tries, clock will keep ticking.\n
+-The bot has to pick different kind of objects (remote, cell phone, keychain, empty water bottle).\n
+-The arena comprises of different terrains which test the ability of the performing robot to pass the different Terrains and get to- the deposit spot.\n
+-The judging criterion of this round is based on each terrain track points and time constraint.\n
+-If the bot collects a ball which is before the checkpoint and fails to drop it into the pit and if the team desires to attempt it again, then they have to restart from the starting line.\n
+-The organizer will put back the dropped object again its respective position on the request of the team. Team members are not allowed to enter into the arena.\n
+-The decision of the event organizer is final"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+      
+      
+       <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+       
+       
+       
+        <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ITB Centre Area"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        
+        
+         <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+         
+         
+         
+            <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="siddartha varma : 8019142448\n
+sai akhil dusi : 8897745800"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+         
+         
+         
+         
+    
+    
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PROBLEM STATEMENT\n
+Make a Boat(DC motors) that possess both forward and backward movement which navigates the given arena within minimum time .\n
+ 
+RULES AND REGULATIONS\n
+• A team should consist of a minimum of 2 and a maximum of 5 members.\n
+• The maximum dimensions of the boat should not exceed 50x25 cms
+and minimum dimensions should be of 30x15 cms  ( dimensions include propellers and rudder)\n
+• The hull of the boat shall not be readymde. ( propellers can be ready made)\n
+Voltage difference between two points shall not exceed 12v.
+ All the teams will be given a time slot for practice before the event.\n
+Participants using the track at any other time than the given time slot will not be entertained.
+ The decision of the organizing team is final.\n
+ Any modifications in the rules will be informed to the registered teams through mails.\n
+• In case the bot is wireless, the teams have to submit the remotes before the start of event. Remotes will be given to the team at time of their turn.\n
+ 
+Note : the rules may be subjected to changes, the participants are thus asked to check the website regularly."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+       <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Empty space in front of Industrial building"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+       
+        <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+        
+         <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chaitanya -9502326466 \n
+Dev - 7702154296"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+       
+    
+
+</LinearLayout>
+
+</ScrollView>

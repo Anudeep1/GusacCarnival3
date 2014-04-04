@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Electrobotz is a robotics workshop designed by team Robogenesis. This workshop is a combination of electronics and robotics.\n
+This two day workshop is designed for building autonomous robots (robots capable of making their own decision).\n Autonomous robots can make their own decisions with the help of a software program, but in this workshop we are using Hard-Wired programming, in which we can build an autonomous robot without using a microcontroller or a microprocessor.\n
+This workshop is not just robotics but also about electronics, for Hard-Wired programming, a very basic knowledge of electronics is required which will be taught in the course of the workshop.\n The participants are encouraged to build the different types of robots on their own with the help of the electronics knowledge obtained by them during the workshop. This will instigate the ideas in students for the next level of robotics, i.e. software programmed robots using a microcontroller."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+       <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="laxman sashank : 9676001232"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

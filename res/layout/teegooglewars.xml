@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/About"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+        
+           <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="An event to test the googling skills of students"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+         
+          
+          
+            <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Rules"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+            
+              <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+• Number of participants in a team : Min - 2 ; Max - 3\n
+• The competition is open for students of all branches.\n
+• The decision of judges shall be final.\n
+• The teams should submit their team name and team member’s names before the event starts.\n
+• Everyone should come up with their own and unique team names."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            
+          
+          
+            <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Eventarea"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+          
+          
+            <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ITB 209,210,203,204"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            
+              <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/contact"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+              
+                <TextView
+            android:id="@+id/text6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shrimoy - 9703342617\n
+Kamlesh - 9704542802"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        
+        
+        
+        
+        
+        
+    </LinearLayout>
+    
+
+</ScrollView>

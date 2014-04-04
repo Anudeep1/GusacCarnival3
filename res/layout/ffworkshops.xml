@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Workshop on photography by Kamal Kiran, one among the top 5 wedding photographers in Andhra 
+Pradesh. He is now spreading his joy with his camera internationally.\n 
+ Workshop on Cinematography by Manohar Maganti from RVR PRO, a pioneer in modern day cinematography.\n 
+ A certificate of participation shall be provided signed by Mr.Kamal Kiran and Mr..Manohar Maganti(RVR PRO)."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      
+       <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Likesh : 9966650636"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+     
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>

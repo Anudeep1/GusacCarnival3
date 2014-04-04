@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Problem statement:\n
+Build a platform supported on a single column.
+Materials:\n
+• Popsicle sticks\n
+• Adhesive (fevicol)\n
+• Thread\n
+• Cutter"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rules:\n
+• No restriction to the shape of the column.\n
+• Maximum sectional area of the column 9000 Sqmm.\n
+• The platform should be supported by only one column.\n
+• The platform should not be supported with any structural member except the column.\n
+• The height of the column should be between 350mm to 450mm.\n
+• The thickness of the platform should be in the between 50mm to 100mm.\n
+   The maximum area of footing for the column should be 93000 sqmm\n
+• The floor area of the platform constructed should be minimum of 120000 Sqmm.\n
+• Make sure that there would be no vertical projections on top of platform since it would not accommodate the testing of structure.\n
+• A team could consist maximum of 4 members.\n
+• All teams shall construct their model under the surveillance of event Coordinators.\n
+Judgement:\n
+• The maximum carrying load of the structure is measured as w1.\n
+• The weight of the model is measured as w2.\n
+• If any member of the model is failed, w1 is taken as the load at that failure point."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Civil Bhavan 2nd floor all classrooms"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+     
+       <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Harsha: 9666670883\n
+Mohan: 9493889994\n
+Rahul: 8297970334"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+     
+     
+    
+    
+    
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

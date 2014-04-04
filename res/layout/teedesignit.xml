@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/About"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+          <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A comeptition testing the participant's design skills (Photoshop/illustrator etc).\n
+ 
+Level-1 (Online Round): We believe that the true fun of learning has its roots dug deep in the field of enthusiasm.\n Since Photoshop is all about fun, enthusiasm and creativity, in this level you only need to have some fun with Photoshop. Create any random scenario or an image/character by mixing distinct entities or images.\n You can create anything you want, but make it funny, thought provoking or with a good message; go crazy with your Ps skills and creativity.
+\nEmail us your creation before 6th of March to designit@gusaccarnival.org along with your name, phone number, branch, year and section.\n
+ 
+Level-2(On event Day): Kudos! You are now about to establish your own Startup. Create a soft copy of the brochure of your firm, describing its background, list of the services which you offer in a short yet charismatic way.\n
+ 
+Level-3: From corruption, over-population, women abuse, drug rackets etc., to lack of general trust, cheating, lying, etc. The list of problems around us maybe infinite! We go through immense pain and suffering every single day. Can’t the world be a better place?
+\nYou cannot change the world unless you change yourself. In order achieve the change, you need the inspiration. So create something to inspire! Create something revolutionary!"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+          
+          
+            <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Eventarea"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+          
+          
+            <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ITB 403,413"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            
+              <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/contact"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+              
+                <TextView
+            android:id="@+id/text6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Suraj - 8121986118"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        
+        
+        
+        
+        
+        
+    </LinearLayout>
+    
+
+</ScrollView>

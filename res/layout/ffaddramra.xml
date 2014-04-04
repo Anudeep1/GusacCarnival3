@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+     <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="It time to get innovative! A win-win  situation for both our beloved sponsors and participants. Given the name of the company to the group of participants, this event aims at making an advertisement for the sponsors by enacting a drama. Get ready for your “AD – DRAMA ” to be telecasted on T.V.!\n
+ 
+ Go home with whooping prices!"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+       <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+       
+       
+         <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prateek :  8143244492"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+       
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

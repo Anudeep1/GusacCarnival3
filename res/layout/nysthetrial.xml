@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+     <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="In this event the participants will be given the facts of a case where they will have to frame  leading questions according to the case given."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+     
+      <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+       <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rules of The Trial (Cross Examination)\n
+1. Participants have to register themselves at the venue on the day of the event\n
+2. Each participant will be given one situation 15 minutes prior to the competition.\n
+3. Each participant will further draft a questionnaire and present it within the span of 7 minutes.\n
+4. Any kind of malpractice or misbehavior will not be entertained.\n
+Judging Criteria:\n
+1. The best questionnaire will be awarded.\n
+2. Merit certificates will be awarded to the best participant.\n
+3. The decision of the judge is sole and discretionary.\n
+ 
+*Note: Any kind of changes regarding the events will be solely the decision of the organizers on the basis of the situation and cannot be questioned."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+     <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+      <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Emal : info@gusaccarnival.org"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

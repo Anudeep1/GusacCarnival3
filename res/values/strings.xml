@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+
+  xmlns:tools="http://schemas.android.com/tools"
+  tools:ignore="MissingTranslation">
+
+  <!-- your strings here; no need now for the translatable attribute -->
+
+
+    <string name="app_name">GUSAC CARNIVAL 3.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Updates_desc">Updates</string>
+    <string name="Events_desc">Events</string>
+    <string name="Spotlight_Events_desc">Spotlight Events</string>
+    <string name="Workshops_desc">Workshops</string>
+    <string name="Guest_Lectures_desc">Guest Lectures</string>
+    <string name="Sponcers_desc">Sponcers</string>
+    <string name="autocad_desc"></string>
+    <string name="gyro">gyro</string>
+    <string name="autocad_rr"></string>
+    <string name="autocad_cu"></string>
+    <string name="designit_desc"></string>
+    <string name="designit_rr"></string>
+    <string name="designit_cu"></string>
+    <string name="googlewars_desc">Contact</string>
+    <string name="googlewars_rr">Contact</string>
+    <string name="googlewars_cu">Contact</string>
+    <string name="crackcode_desc">Contact</string>
+    <string name="crackcode_rr">Contact</string>
+    <string name="crackcode_cu">Contact</string>
+    <string name="disassembly_desc">Contact</string>
+    <string name="disassembly_rr">Contact</string>
+    <string name="disassembly_cu">Contact</string>
+    <string name="agriculture">Contact</string>
+    <string name="healthcare">Contact</string>
+    <string name="energy">Contact</string>
+    <string name="infrastructure">Contact</string>
+    <string name="education">Contact</string>
+    <string name="industrialization"></string>
+    <string name="About">About</string>
+    <string name="Rounds">Rounds</string>
+    <string name="Eventarea">Event Area</string>
+    <string name="contact">Contact us</string>
+    <string name="Rules">Rules and Regulations</string>
+    <string name="autocadabout"> The team consisting of 3 members would be given freedom to choose any product and they would be asked to frame out the ideas on the following basis:</string>
+<string name="acadone">1. Component of the product (for machinery product,  any addition of new component)</string>
+<string name="acadtwo">2. Usage of the product ( including innovative usage)</string>
+<string name="acadthree">3. Problems faced by the users during usage</string>
+<string name="acadfour">4. Ideas to overcome those difficulties</string>
+<string name="acadfive">5. Sketching of model (if possible)
+The team members would have to send their work 2 days before the starting of first round to cadme@gusaccarnival.org . On the basis of quality of ideas, selected teams will enter into first round.</string>
+    
+    
+
+</resources>

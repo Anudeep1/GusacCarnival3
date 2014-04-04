@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+      <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Hari Menon : A photographer by profession, his works have been admired throughout the globe for their sheer visual beauty. Standing tall at 6 ‘3, it is not difficult to notice Hari 
+Menon roaming around with a camera trying to capture nature’s bounty through his lens. An instinctive photographer, his magical touch is evident in the numerous photos he has taken 
+ranging from stills to faces, and abstract to reality. He is known to capture images from day to day life and render them immortal."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>

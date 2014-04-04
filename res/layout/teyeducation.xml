@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Problem Statement"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Improving the quality of Professional education.\n
+ Problem Statement 2\n
+ Methods of improving the quality of education in rural areas."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+        <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="akhilendra - 9494303232\n
+sai prasad- 7799850445\n
+sasank : 9963600666\n
+ info@gusaccarnival.org\n
+ mail all abstracts to: ppts@gusaccarnival.org"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      
+      
+     
+     
+     
+
+</LinearLayout>

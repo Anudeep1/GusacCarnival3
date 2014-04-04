@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Mr. Srijan Pal Singh: A Management graduate from the Indian Institute of Management, 
+
+Ahmedabad. At IIMA, he was head of the student’s council and was engaged in a variety of 
+
+social and developmental activities and projects with the Police, local political institutions and 
+
+MPs, NREGA, Public Distribution System and many youth organizations. He was awarded the 
+
+IIMA Gold Medal for the Best All-rounder student from the graduating batch of 2009.
+
+He also worked with Dr A.P.J. Abdul Kalam (from Jul 2009-Dec 2012) in promoting various 
+
+missions like What Can I Give, Energy Independence for the nation, nuclear and space 
+
+missions, and PURA (Providing Urban Amenities in Rural Areas). 
+
+Previously, he has worked in the corporate world as a consultant with the Boston Consulting 
+
+Group where he worked in close association with the World Food Program on improving 
+
+governance and transparency in Public Distribution System in Naxal affected areas of Orissa. 
+
+From Nov 2011 to Nov 2012, Srijan Pal Singh was instrumental in starting a youth movement 
+
+called What Can I Give Mission, which is now a network of over 1,000,000 volunteers from 
+
+across India, both rural and urban who are working towards a clean green and corruption free 
+
+India. Srijan was the National Facilitator of the mission. 
+
+He has recently co-authored a bestselling book with Dr. Kalam titled, Target 3 Billion which is 
+
+based on sustainable development of the rural areas of the world."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

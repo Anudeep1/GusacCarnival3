@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yugandhar Tammareddy, CEO, Pixelloid : Yugandhar needs no introduction in film and media circles. His 14 years of experience and work in over 100 films have earned him a niche in the 
+industry. Yugandhar’s creative vision and direction ensure that Pixelloid has a constantly growing project pipeline. He also supervises the production process end to- end to ensure 
+quality and timely delivery."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

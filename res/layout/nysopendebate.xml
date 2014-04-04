@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+      
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+     <TextView
+      
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The only reason humans are this advanced is because of our ability to think, to wonder and to suppose. To hone these skills in young orators , NYS has come up with an “ open debate “ , which essentially deals with understanding an issue from all perspectives , in order to gain a much broader understanding of what it essentially means . This not only expands the horizons of the mind, but also teaches us to understand the opinions of other people. You are required to put forth your views on a given topic in the presence of a jury and other participants who are free to question your take on the topic.
+Rules for open debate\n
+1) Participants who are participating in open debate have to register for the carnival as whole. Registration fee is Rs.500.\n
+2) There will be spot registration for open debate near the registration desk of assigned building free of cost.\n
+3) The participants are required to assemble in the assigned room.\n
+4) Every participant has to be present till the entire competition gets over, which will be maximum of 2hrs 30 minutes.\n
+ Judging criteria:\n
+1) It will be based upon communication skills, affective body language and rebuttals.\n
+2) Negative marking will be awarded for use of obscene language and aggressive behavior.\n
+3) Decision of the moderator will be final. Participants should not indulge in any sort of arguments with the moderator.\n
+4) Decision of the judge will be final and cannot be questioned or disputed."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+      
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      
+       <TextView
+      
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sandhya :8466943565\n
+Surya :9963029920"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

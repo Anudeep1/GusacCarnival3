@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+     <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The country is at war and the enemy has triggered an EMP Wave disabling all the electrical systems. The only way to defend ourselves is to use mechanical and hydraulic means to drive our war machines against the intruders.\n
+Problem Statement: Design an ammunition loading system (a crane) for our Howitzers using only hydraulics and simple mechanical mechanisms.\n
+ Machine Specifications:\n
+1. Machine should fit into a box of size 30cm x 30cm at the time of start. There is no restriction on the height of the machine. The extensions used to control the machine are excluded while measuring the machine dimensions.\n
+2. Machine can expand or compress during the run.\n
+3. Movement of any part of the machine should be governed by either hydraulic or mechanical forces only.\n
+4. Use of batteries and any other source of electrical energy are prohibited.\n
+5. Use of any type of electrical motors is prohibited.\n
+Materials Allowed:\n
+Materials for the fabrication of the structures:\n
+ Wood, Plastic, Popsicle Sticks, Cardboard or any type of Foam Products
+Materials to be used for the construction of the mechanisms:\n
+ Syringes, Metallic Pins or Clips, Tubes, Rubber Bands, Metallic or Plastic Frames, Gear Drives, Common Crafting Material and Water"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+       <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Krishna Sai :9493870764\nManoj: 8106944540"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>
+
+</ScrollView>

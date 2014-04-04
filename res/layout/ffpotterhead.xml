@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The one event that tests your knowledge on the Harry Potter series. The event consists of three rounds where the participant’s only tool would be his knowledge on the series. The participants that make their way through the first two rounds need to face the final quiz that would earn one worthy winner the prize.\n
+ PRIZE: A Harry-Potter book"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+      
+       <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+       
+       
+        <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prateek :  8143244492"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>
+
+</ScrollView>

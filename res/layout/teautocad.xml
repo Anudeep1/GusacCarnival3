@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+    
+  
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/autocadabout"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/acadone"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+      <TextView
+          android:id="@+id/textView4"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/acadtwo"
+          android:textAppearance="?android:attr/textAppearanceMedium" />
+
+      <TextView
+          android:id="@+id/textView5"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/acadthree"
+          android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+               <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/acadfour"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+               
+                  <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/acadfive"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                  <TextView
+                      android:id="@+id/textView8"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/Rounds"
+                      android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                  <TextView
+                      android:id="@+id/textView9"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="ROUND-1
+The selected team consisting of 3 members has to undergo following steps:\n
+1. Answer basic questionnaire on design and speak about the idea proposed.\n
+2. Design the model of product using AUTOCAD.\n
+3. Mention the new outcomes in the design with a description.\n
+Again according to the quality of ideas and how far it can be implemented, 3 teams would be selected for the final round.
+ROUND-2\n
+In the final round the selected team would be given 5 products with their specifications on which they have to frame the design of product using AUTOCAD.\n
+1. The competitor has to design a minimum of one product.\n
+2. Time limit is being considered.\n
+3. Innovative ideas in any product will be given opportunity to present it on stage.\n"
+                      android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                  <TextView
+                      android:id="@+id/textView10"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/Eventarea"
+                      android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                  <TextView
+                      android:id="@+id/textView11"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="Mechanical AutoCAD Labs"
+                      android:textAppearance="?android:attr/textAppearanceMedium" />
+                  
+                  
+                   <TextView
+                      android:id="@+id/textView12"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/contact"
+                      android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                   <TextView
+                       android:id="@+id/textView13"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="1. G. Naveen Kumar (9966060047)\n
+2. A Chaitanya Kumar(9505055980)\n
+3. G Ravi Teja(8897866899)"
+                       android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
+
+
+</ScrollView>

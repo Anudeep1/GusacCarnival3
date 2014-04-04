@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="It is a crime investigation scene in which the participants will be provided with evidences of the crime scene and will have to draft a small situational analysis of the incident that took place."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rules for Criminal Investigation\n
+1. Participants will have to register themselves near the venue.\n
+2. After the registration they will be divided into groups\n
+3. Once the groups have been allotted to the participants, each group will be provided with a set of evidences.\n
+4. Once the groups are provided with the evidences, the crime scene should be guessed.\n
+5. Each group will be provided with 15 min for drafting out the crime scene.\n
+6. Any kind of misbehavior and cheating amongst the groups is not acceptable.\n
+ Judging Criteria:\n
+1. It will be based upon the best solution provided for the problem given.\n
+2. Merit certificates will be awarded to best solution(best team) and best speaker.\n
+3. Decision of the judge is final.\n
+ 
+*Note: Any kind of changes regarding the events will be solely the decision of the organizers on the basis of the situation and cannot be questioned."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      
+      
+      
+       <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+       
+       
+        <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vishwaraj Marashi : 9494130760"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Guest Lectures"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+      <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rohildev:\nFounder of Rhl vision, whose company works on Robotic Human Logic like Computer Vision and Artificial Intelligence for intelligent personal computers. It is incubated in the start-up village, Kochi.
+        Shraddha Sharma:\nShe heads yourstory.com, India’s leading platform for first generation Indian entrepreneurs. She has covered over 2000 startups in one and a half years.\n
+        Uday Nandan Reddy:\nHe currently owns YuppTV, one of the most widely known online portal which provides on demand internet streaming media and internet TV. The service is widely popular with Indian consumers\n
+        Ishank Joshi:\nHe is the co-founder of Nurture talent academy, India’s first institute for training entrepreneurs. He is widely respected for his experience and knowledge .\n
+        C V Madhukar:\nHe is the co-founder of Akshara foundation, a basic education initiative in collaboration with the government of Karnataka. Since then, the programs initiated by the organization have been very successful.\n
+        Sheikh Shovo:\nHe is the present regional ops manager of Start-up weekend, powered by Google for entrepreneurs. The organization was established with a mission to inspire, educate, and empower individuals, teams and communities\n
+        Brijesh Agarwal:\nHe is the co-founder and the present director of Indiamart. His innovative strategies and out of the box thinking have changed the B2B market scenario in India.\n
+        Deepinder Goyal:\nHe founded the popular online portal zomato, which is an online restaurant discovery guide providing information on home delivery, dine-out, cafés and nightlife in cities\n
+        Rahul Yadav:\nHe founded housing.com, which provides real time solutions to finding places for rent throughout India. With an approach that is very unique, the company has taken rapid strides in the market\n
+        Anshulika Dubey: \nShe founded Wishberry, India’s most popular crowd sourcing platform, which deals with categories ranging from social ventures, films to music."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      
+      
+         <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Innovation Exhibition"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+         
+         
+            <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="At e summit , we’ve always found this quote inspiring . Keeping this in mind , we’ve come up with the innovation exhibition , an idea meant to simulate your mind with ideas and products that are just out of this world .
+
+Here , companies which are making a difference with their products and ideas , will come to the event and showcase them . They will exhibit the marvels they have created to you , where you will also have the chance to interact with the founders and creators . And as a surprise final touch , the prototypes being offered y these companies will be for sale ! . Join in and be a part of an experience that will probably be once in your lifetime !"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            
+       
+            
+              <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Panel Discussions"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+              
+                <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="We plan to start off the entrepreneurship summit with a panel discussion.   The topic that we would like to go about is “ online event management”. For the same, we currently have three speakers in mind. The speaker list is still tentative, but we are confident that we can rope in these big names in order to make this event a grand success."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            
+            
+            
+            
+            
+
+
+
+
+
+</LinearLayout>
+
+
+
+</ScrollView>

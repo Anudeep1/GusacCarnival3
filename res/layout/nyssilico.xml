@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="In team simulation, you and your team members will be given a challenging yet innovative task set, wherein you will have to solve the problem which involves taking the help of all your team members to arrive at a solution that is the most optimal one available.\n
+ You will be graded on the creativity and feasibility of the solution, apart from the degree of cooperation and mutual understanding that you achieve with your team mates to solve problems that are very likely to occur in the real world as well.
+Rules for team simulation: - In Slico\n
+1.  Participants have to register themselves on spot at the registration desk near assigned building.\n
+2. Participants will be divided into groups on the basis of registrations.\n
+3. Participants will be allotted their situation on the spot.\n
+4. No. of people in the group will be decided by the organizers and their decision will be final.\n
+5. Each team will be 15 minutes for discussion and coming with a solution of the given problem.\n
+ Judging criteria:\n
+1. It will be based upon the best solution provided for the problem given.\n
+2. Merit certificates will be awarded to best solution (best team) and best speaker.\n
+3. Decision of the judge is final.
+ "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+     <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+      <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mahathi Vatsal : 9177053637\n
+Avinash : 9700677327
+ "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>

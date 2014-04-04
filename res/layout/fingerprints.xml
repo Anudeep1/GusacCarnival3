@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A Typical signature type event where in we will be initiating a board at the main entrance of the carnival and all the participants are made to put their hand 
+impressions on the board. A Share of fifty percent will be handed over as a charity to Vivian."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>

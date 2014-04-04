@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    
+     <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Durjoy Datta: He is a best-selling author, who is also the co-founder of Grapevine India 
+
+Publishers. He currently has eight books under his wing, four of which were bestsellers in the 
+
+Hindustan Times Bestseller List. His first book, Of Course I Love You! released in 2008 while 
+
+he was 21 and still in college. After its tremendous success, he has gone on to release 8 more 
+
+bestselling novels. Some of these titles are Till The Last Breath, If It’s Not Forever, and Ohh Yes, 
+
+I am Single. Durjoy uses a narrative style to depict several plots, which finally converge into a 
+
+single plot at the end.
+
+Durjoy is a graduate of Delhi College of Engineering. He received his PGDBM from the 
+
+Management Development Institute, and Frankfurt School of Finance and Management. He has 
+
+received recognition for his contribution to media and literature. In 2009, Durjoy was elected 
+
+as a young achiever by The Times of India, and in 2012, he received the Teacher’s Achievement 
+
+Award. He was also chosen as one of the two young achievers in the field of Media and 
+
+Communications by Whistling Woods International in 2011. Durjoy has written many books 
+
+with authors such as Orvana Ghai, Nikita Singh, and Maanvi Ahuja."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>
+
+</ScrollView>

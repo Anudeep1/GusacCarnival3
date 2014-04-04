@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+    <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Talks: An interactive session with Tollywood’s elite.\n
+Yugandhar Tammareddyn Founder of Pixelloid, Graphic designing partner for the recent Tolloywood blockbuster ‘1: Nenokkadine’. He is also the recipient of the Young Creative Entrepreneur award, India in the 
+Sector Screen by British Council, UK.\n
+Martand K Venkatesh:\n Film Editor and a four-time awardee of the prestigious Nandi award.\n
+Srikanth Addala:\n Director of the Tollywood megahit Seethamma Vakitlo Sirimalle Chettu. \n
+Chandra Siddhartha:\n Director of Nandi award winning feature Aa Naluguru and the critically acclaimed film Inscrutable Americans\n
+Bommarillu Bhaskar:\n Director of one of the highest grossing Tollywood films of all time Bommarillu.\n
+Hari Menon:\n An instinctive photographer, his magical touch is evident in the numerous photos he has taken ranging from stills to faces, and abstract to reality. He is known to capture images from day to day life and 
+render them immortal. His play of colours and shapes in the photos he clicks talk deeply about his passion and love 
+for photography. His eye for detail is completely self taught."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+     <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+     
+      <TextView
+       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Likesh : 9966650636"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>
+
+</ScrollView>

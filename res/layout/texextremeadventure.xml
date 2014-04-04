@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PROBLEM STATEMENT:\n
+The motive is to design a wired/wireless robot being autonomous or manually controlled machine that is capable of completing the ALL TERRAIN Arena successfully.
+ROUNDS\n
+Round 1: (Qualifying Round)\n
+The participating robots are   to pass through a series of terrains. The robot which gains maximum points is taken into consideration for next round within the stipulated time. It’s not compulsory that you finish the track. Placing of the points will be disclosed on- site.\nRound 2:\n
+The Round 2 will be a challenging track with difficulty of fresh impetus. This may be done by introducing terrains like pebbles , sand, mud, grease etc .The track will test the ability of the robot to pass through the Terrains and pass through the Finish line. The judging criterion of this event is based on each terrain track points and time constraint. The robot scoring the maximum points based on these two judging criteria is merited."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+     <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" • A team may consist of a  maximum of 4 members.\n
+  • During the Rounds, only maximum of two team members are allowed in the arena, one member will control the robot and other to guide it.       However, teams are allowed to switch members in different rounds.\n
+  • Size of bot should fit in a box of dimensions 30x30x30 CMS.\n
+  • The bot should not cause any damage to the arena if found damaging the team shall be disqualified.\n
+  • The battery used cannot exceed 12V.\n
+  • Bot can either be wired or wireless.\n
+TRACK SPECIFICATION:
+     WILL BE UPLOADED SOON"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+      <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      
+     <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Empty space in front of Industrial building"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+      <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      
+      <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abhinav- 8985881199\n
+sushanth - 8977441840"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>
+
+</ScrollView>

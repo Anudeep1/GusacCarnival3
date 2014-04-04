@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Srinivas Sarakadam: He is an onsite search engine optimization expert, with an experience 
+
+that is vast and unparalleled. His areas of focus include SEO, Social Media, PPC, Online 
+
+Reputation, Brand Management, blog Management  Ecommerce. He will also be giving a 
+
+guest lecture on Search engine optimization at the e summit."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    
+    
+     <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+     
+      <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="We hear the word ‘sport’ and the first thing that comes to our mind is Cricket.\n This event takes INDIA's favorite sport to a whole new level, letting your 
+bots play the game for you. All you need to do is modify your ROVER into something that can swing a bat (sort of) and we’re good for the event.\n We’ll 
+manage the Bowling bot, so no need to worry about the bowling lineup, just 
+unleash your sporting DNA and let your BOT win."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      
+      
+       <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+       
+       
+        <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BBS Krishna\n Murty 8008325252"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+    
+
+</LinearLayout>
+
+
+</ScrollView>

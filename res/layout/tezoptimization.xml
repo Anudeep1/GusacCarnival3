@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="“Innovation distinguishes between a leader and a follower.” – Steve Jobs\nA pioneer, a seer - perhaps these expressions are not enough to describe a visionary of extraordinary calibre and stature who has secured a strong foothold in the map of industrialized nations of the world. To etch a nation from the envelope of dense forest, rough terrains and muscular currents one need not be an engineer. A dream is all it takes to build a nation. If you borne the vision and dream then you are at the right place. Optimization Reinvented gives you a platter to satisfy your appetite. A place to showcase you skills and an arena to sow your dreams and yield the best in you. At OR you need to weave a city exploiting the best constraints but the only condition is to minimize your expenditure. Amalgamation of Engineering and Management here is an opportunity to handle cash in a surreal business market situation. The catch is simple - Cut down the cost but not at the cost of quality."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+      
+      
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Round 1:\n
+A problem statement will be provided online before the commencement of the event. The problem will have various parameters wherein the teams have to carefully study the whole problem and draw various linear programming equations. After getting the equations the problem can be solved either graphically or using simplex method from Operations Research. Usage of any technique other than that mentioned above will be highly appreciated.\n
+Round 2:\n
+* The teams will be handling with “virtual cash” in this round.\n
+* A virtual market will be set up and the teams have to purchase the various items. A catalogue will be provided.\n
+* The teams have to solve as well build a model.\n
+* The team with maximum savings will be awarded.\n
+In short the challenges are – select the most cost efficient articles and build a model. The team with low investment and good model is the winner.
+ Team should consist of 3 members.\n
+The members need not be of the same college"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+       
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+        
+         <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ITB 405,406,407,416,418,419"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+         
+         
+          <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+          
+          
+           <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chaitanya : 9493152110"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+         
+         
+         
+         
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+
+
+</ScrollView>

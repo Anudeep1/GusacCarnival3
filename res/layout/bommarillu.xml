@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+      <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Bommarillu Bhaskar: Bhaskar is a Telugu film director. In his early career, he worked as assistant director on films Bhadra and Arya. Dil Raju then gave him a chance to debut as 
+director. His directorial debut was Bommarillu was a box-office hit. His next venture, Parugu, released on 1 May 2008. Allu Arjun starred in the lead role and Dil Raju produced 
+it.Orange was his next film,which gained some mixed response.Now he started his fourth film with Ram with titleOngole Githa was released on Feb 1 2013, which was garned average 
+response."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>

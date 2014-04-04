@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kites.gusaccarnival3"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="17" />
+  <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.kites.gusaccarnival.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.gusaccarnival.gcm.permission.C2D_MESSAGE" />
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+        <activity
+            android:name="com.kites.gusaccarnival3.Splash"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+        </activity>
+        <activity android:name="com.kites.gusaccarnival3.Mainmenu" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.Workshops" android:screenOrientation="portrait">
+                </activity>
+                <activity android:name="com.kites.gusaccarnival3.Updates" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.Contacts" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.FilmFestival" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.GuestLectures" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.NYSummit" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.Sponsors" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.Vision2020" android:screenOrientation="portrait"></activity>              
+                <activity android:name="com.kites.gusaccarnival3.LiteraryFest" android:screenOrientation="portrait"></activity>              
+                <activity android:name="com.kites.gusaccarnival3.TEcae" android:screenOrientation="portrait"></activity>              
+                <activity android:name="com.kites.gusaccarnival3.TEdab" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.TEpp" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.TEquizes" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.TechEvents" android:screenOrientation="portrait"></activity>
+                <activity android:name="com.kites.gusaccarnival3.E_Summit" android:screenOrientation="portrait"></activity>                          
+                 <activity android:name="com.kites.gusaccarnival3.Hive" android:screenOrientation="portrait"></activity> 
+                  <activity android:name="com.kites.gusaccarnival3.About" android:screenOrientation="portrait"></activity>  
+                   <activity android:name="com.kites.gusaccarnival3.TestDatabaseActivity" android:screenOrientation="portrait">
+                       <intent-filter>
+            <action android:name="com.kites.gusaccarnival3.GcmIntentService" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+                   </activity>                                                                           
+                <activity android:name="com.kites.gusaccarnival3.Credits" android:screenOrientation="portrait"></activity> 
+                <receiver
+            android:name="com.kites.gusaccarnival3.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+
+                <!-- Receives the actual messages. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.kites.gusaccarnival3" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.kites.gusaccarnival3.GcmIntentService" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="4030500"
+         />
+
+        <activity
+            android:name="com.kites.gusaccarnival3.ReceiveActivity">
+        </activity>
+        </application>
+
+</manifest>

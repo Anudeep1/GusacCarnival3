@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    
+    <ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" > 
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Disassembly is a technical competition looking for spirited individuals with good Knowledge in electrical and electronics fields.\n
+ Structure of Event:\n
+ The Event has two initial rounds which are elimination rounds. The short-listed teams will be invited to participate in the final round in front of a panel of judges. Judgment will be on the basis of feasibility and originality.\n
+ The activity comprises of two stages:\n
+ Elimination Round\n
+It comprises of two basic rounds (Questionnaire and Circuit Debugging) to test the BASIC KNOWLEDGE of the Contestant in electrical and electronic subjects.\n
+ Final Round\n
+Shortlisted teams will be invited to handling electronics equipment provided (e.g., a cd drive) under supervision of judges\n
+The team which completes the Task of Dissembling  Assembling the given object, in least speculated time duration is considered as the Winner Team"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+       <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+       
+       
+         <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="• Number of participants in a team : Min - 2 ; Max - 3\n
+• The competition is open for students all circuit branches.\n
+• The decision of judges shall be final.\n
+• Kits will be provided for the last round.\n
+• The teams should submit their team name and team member’s names before the event starts.\n
+• Everyone should come up with their own and unique team names."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+         
+         
+          <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+          
+          
+           <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ITB"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+           
+            <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            
+             <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Suryateja
++91-9177953553\n
+Siddarth
++91-9160333023\n
+Sandeep
++91-8179338566"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+</LinearLayout>
+
+
+</ScrollView>

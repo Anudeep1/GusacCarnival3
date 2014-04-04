@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PROBLEM STATEMENT:\n
+Design and construct a water propelled rocket pressurized with air to compete against different constraints in separate rounds.The objective of the preliminary round is to launch a water-rocket without any payload, and make it go as far as possible from the launch point i.e. the maximum horizontal distance.\n
+ROUND 1:\n
+ The horizontal distance will be considered from the starting point to the point where any part of the rocket first touches the ground.\n
+ Multi-stage rockets are also allowed but the combined tank capacity must be 2 litres only.\n
+ Each team shall be allowed two chances to launch and the better of the two will be considered. (This may be altered later based on the performance of most teams.)\n
+Note: Pressure limit for this round will be 75 psi\n
+ROUND 2:\n
+Round Two tests the accuracy of your rockets.\n
+ Each team will be having two chances .The maximum score that a team can earn is 180 points that can be scored by hitting the rocket on straight line. The points will be deducted as much is the deviation from the straight line. The team must clear minimum horizontal distance which will be disclosed only after first round. The better of two chances will be taken into consideration.\n
+ Only 30 percent of the candidates appearing in second round will be qualifying into third round which depends upon the score they get.\n
+ROUND 3:\n
+In this round remaining teams will be asked to carry a payload (given by the organisers around 100 to 400 gm.) The teams whose rocket will remain in air for maximum time will win the THRUST. The participants can even launch their rocket vertically, and can even decide where they want to attach the payload."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+       <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" • The team may be of a maximum of 4 members.\n
+ • Team can use different rockets for different rounds.\n
+ • The rocket must be built completely from scratch and not using model rocketry parts.\n
+ • The pressure vessel must be made from commercially available non-metallic soda bottles (PET bottles).\n
+ • The organizers will not provide a launcher, so teams must bring their own launchers.\n
+ • All parts of the rockets should be properly attached to the main body. If any part (fins etc.) breaks away during flight, it will compromise the safety of the spectators. Therefore, such water rockets may be disqualified from further participation at the discretion of the organizers.
+Note:\n
+    This may be subject to change ,so participants are requested to check out the website regularly."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+       
+        <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Eventarea"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+        
+        
+         <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ground"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+         
+         
+         
+          <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+          
+          
+           <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="P.Sandeep - 8500894057\n
+T.E.Veerabhadra - 9912030569"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

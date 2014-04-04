@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="In this event the participants will be given topics five minutes prior to the event where he or she will have to speak for a minute on  the given topic."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rules"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      
+       <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rules for IN-GLOT(Extempore) :\n
+1. The Participants will have to register themselves at the event venue.\n
+2. All the participants will be given a topic 15 min prior to the commencement of the competition.\n
+3. The participants will be speaking on their specified topic for not more than one minute.\n
+4. Any kind of misbehavior or inappropriate usage of words will lead to disqualification of the participant.\n
+ Judging Criteria:\n
+1. The judging will be based on the best speaker of the event.\n
+2. Merit certificates will be awarded to the best speaker.\n
+3. The decision of the judge is sole and discretionary.\m
+ 
+*Note: Any kind of changes regarding the events will be solely the decision of the organizers on the basis of the situation and cannot be questioned."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+       
+       
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+     
+</LinearLayout>
+
+</ScrollView>

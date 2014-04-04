@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Brush up your IQ levels and Common sense. This event enhances your 
+
+“Thinking Abilities” on a question.\n
+“I thought a thought. But the thought I thought wasn't the thought I thought I thought. If the thought I thought I thought had been the thought I 
+thought, I wouldn't have thought so much.”\n
+So, have you thought how you should think? This is a fully logic based event wherein you will think with different thoughts about a given problem and 
+find out the solution according to your thoughts.\n 
+
+Solve the mystery out. Get the solution for the Puzzle. Be the winner."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hyder 8121727053,\n 8977825385 m sandeep,\n 9603222896 joseph sandeep, \n8500490451  k manogna,\n  9491868976  b kaushik"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+    
+    
+   
+
+</LinearLayout>
+
+</ScrollView>

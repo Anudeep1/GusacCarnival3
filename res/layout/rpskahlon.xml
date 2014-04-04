@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+     <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Shri. R. P. S Kahlon: Shri R. P. S. Kahlon, Chairman, Kolkata Port Trust, an IAS officer of 1984 
+
+batch of West Bengal Cadre took over the additional charge of Chairman, Visakhapatnam Port 
+
+ Before taking over the charge of Chairman, Kolkata Port Trust, Shri R. P. S. Kahlon was Principal 
+
+Secretary, Environment Department, Govt. of West Bengal (w.e.f. 30.05.2011 till 02.01.2013). 
+
+-+ As a member of Indian Administrative Service, Shri Kahlon has served the state of 
+
+West Bengal in various capacities. Shri Kahlon was Principal Secretary, Transport (w.e.f. 
+
+31.1.2011 to 30.05.2011), Department of Fisheries, (w.e.f. 2004 to 31.01.2011), 
+
+Department of Sports and Youth Services, Department of Fire Services, Disaster 
+
+Management Department (Additional Charge with Fisheries Department), Commissioner, 
+
+Health and Family Welfare, Department of Health (1999-2002), Labour Commissioner, 
+
+Labour Department, (2002-2004).
+
+ September, 2013."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>
+
+</ScrollView>

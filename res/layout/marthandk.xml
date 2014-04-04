@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+      <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Marthand K Venkatesh: Venkatesh is son of noted Telugu film editor K. M. Marthand. He used to assists his father in editing for the films produced by Suresh Productions. Telugu 
+film director K. Raghavendra Rao gave him the first independent charge of editing his Allari Premikudu in 1994. He has many hit films for his credit during the last two decades. They 
+includes Daddy(2001), Anand (2004), Bommarillu andPokiri (2006), Desamuduru (2007), Arundhati and more. he is a prominent editor in Telugu film industry."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    
+     <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+     
+     
+      <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Short-Film: Submit your best short film before 4th\n
+Photography:\n Submit a maximum of three pictures on each of the following theme along with your registration number.Mail them to gitamstudio@gmail.com
+March 2014 , Mail it to gitamstudio@gmail.com\n
+
+My Best Shot | Live (People and Residents) | Catch the Black \n
+There are also a number of On-Spot events. Follow us at www.fb.com/gitamstudio to know more."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>

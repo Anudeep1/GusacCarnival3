@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+     <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Susant Pattnaik: He is currently studying at Indian Institute of Science Education and Research 
+
+(IISER)- Bhopal. Being a highly motivated inventor his areas of interest include scientific 
+
+innovations, research and entrepreneurship. I have started inventing technologies from 
+
+standard 9th. Also one of his inventions Susant's Breathing Sensor Apparatus has been 
+
+appreciated by former President of India H.E. Dr. APJ Abdul Kalam via NIF at IIM Ahmadabad 
+
+in 2009 for the best innovation among 1000 other innovators. He has also been appreciated 
+
+by many dignitaries including President of India H.H. Smt Pratibha Devisingh Patil, Dr R A 
+
+Mashelkar (Former DG of CSIR), Hon'ble Pritiviraj Chavan (CM of Maharashtra), Smt Sheila 
+
+Dixit (C.M. of New Delhi), Dr Sam Pitroda, Mr James Cameron and many others. He has won 
+
+several National awards and one International award too. MIT Technology Review published 
+
+Susant's technology at such a young age of 17 years and he has been invited to present my 
+
+invention at INK Conference (in association with TED) as Inventor in Fellow category 2010 at 
+
+Lavasa. My innovations have been greatly appreciated and recognized by various National and 
+
+International Organisations like NIF, Techpedia.in, MIT Technology Review, Intel, INK, KVPY, 
+
+NCSC, NCSTC, IIT-G etc."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+</LinearLayout>
+
+</ScrollView>
